@@ -26,7 +26,7 @@ To get started with AnyVR, follow these steps:
 
 1. **VR Headset:** Ensure you have a compatible VR headset, or using a smartphone with VRbox will do just fine
   
-2. **Download AnyVR:** Visit our website [link to website] to download the aniVR app for your respective VR platform.
+2. **Download AnyVR:** Visit our website [https://anyvr-e5c05.web.app] to download the aniVR app for your respective VR platform.
 
 3. **Create an Account:** Sign up for a free account within the app to access personalized features and track your progress.
 
