@@ -1,20 +1,20 @@
-# AniVR
+# AnyVR
 
-AniVR is an innovative Virtual Reality (VR) smart education application designed to revolutionize the way we learn by leveraging immersive technology. With AniVR, users can delve into interactive educational experiences, exploring subjects in depth and engaging with content in ways never before possible.
+AnyVR is an innovative Virtual Reality (VR) smart education application designed to revolutionize the way we learn by leveraging immersive technology. With AnyVR, users can delve into interactive educational experiences, exploring subjects in depth and engaging with content in ways never before possible.
 
 ## Features
 
-- **Immersive Learning Environment:** Step into a virtual world where learning becomes an adventure. AniVR creates immersive environments from historical monuments to space cosmos.
+- **Immersive Learning Environment:** Step into a virtual world where learning becomes an adventure. AnyVR creates immersive environments from historical monuments to space cosmos.
   
-- **Interactive Lessons:** Engage with lessons like never before. AniVR offers interactive modules, allowing students interact with the 3D environment.
+- **Interactive Lessons:** Engage with lessons like never before. AnyVR offers interactive modules, allowing students interact with the 3D environment.
 
-- **Personalized Learning:** Tailored to individual learning styles, AniVR adapts content to suit the user's pace and preferences. Whether you're a visual learner or prefer auditory explanations, AniVR has you covered.
+- **Personalized Learning:** Tailored to individual learning styles, AnyVR adapts content to suit the user's pace and preferences. Whether you're a visual learner or prefer auditory explanations, AnyVR has you covered.
 
 - **Collaborative Learning:** Connect with peers and educators in virtual classrooms, fostering collaboration and discussion. Share insights, work on group projects, and learn from one another in a dynamic virtual environment.
 
 ## Technologies Used
 
-- **Unity 3D:** aniVR is built using the Unity game engine, allowing for seamless VR experiences and interactive content creation.
+- **Unity 3D:** AnyVR is built using the Unity game engine, allowing for seamless VR experiences and interactive content creation.
   
 - **Firebase Authentication:** Securely authenticate users and manage their accounts with Firebase Authentication, providing a seamless login experience across devices.
 
@@ -22,11 +22,11 @@ AniVR is an innovative Virtual Reality (VR) smart education application designed
 
 ## Getting Started
 
-To get started with aniVR, follow these steps:
+To get started with AnyVR, follow these steps:
 
 1. **VR Headset:** Ensure you have a compatible VR headset, or using a smartphone with VRbox will do just fine
   
-2. **Download AniVR:** Visit our website [link to website] to download the aniVR app for your respective VR platform.
+2. **Download AnyVR:** Visit our website [link to website] to download the aniVR app for your respective VR platform.
 
 3. **Create an Account:** Sign up for a free account within the app to access personalized features and track your progress.
 
@@ -34,7 +34,7 @@ To get started with aniVR, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community to help improve aniVR and expand its features. If you're interested in contributing, please follow these guidelines:
+We welcome contributions from the community to help improve anyVR and expand its features. If you're interested in contributing, please follow these guidelines:
 
 - Fork the repository and create a new branch for your feature or bug fix.
   
@@ -44,8 +44,8 @@ We welcome contributions from the community to help improve aniVR and expand its
 
 ## Feedback and Support
 
-We value your feedback and are committed to providing excellent support for aniVR. If you have any questions, suggestions, or encounter any issues while using aniVR, please don't hesitate to reach out to us.
+We value your feedback and are committed to providing excellent support for AnyVR. If you have any questions, suggestions, or encounter any issues while using AnyVR, please don't hesitate to reach out to us.
 
 - **Email:** sainigurnoor511@gmail.com,abhayrana1701@gmail.com
 
-© 2024 aniVR Technologies. All rights reserved.
+© 2024 AnyVR Technologies. All rights reserved.
