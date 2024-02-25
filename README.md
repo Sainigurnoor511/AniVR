@@ -14,7 +14,7 @@ AnyVR is an innovative Virtual Reality (VR) smart education application designed
 
 ## Technologies Used
 
-- **Unity 3D:** AnyVR is built using the Unity game engine, allowing for seamless VR experiences and interactive content creation.
+- **Unity 3D:** AnyVR is built using the Unity game engine, allowing for seamless experiences and interactive content creation.
   
 - **Firebase Authentication:** Securely authenticate users and manage their accounts with Firebase Authentication, providing a seamless login experience across devices.
 
