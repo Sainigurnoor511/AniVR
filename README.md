@@ -12,6 +12,14 @@ AniVR is an innovative Virtual Reality (VR) smart education application designed
 
 - **Collaborative Learning:** Connect with peers and educators in virtual classrooms, fostering collaboration and discussion. Share insights, work on group projects, and learn from one another in a dynamic virtual environment.
 
+## Technologies Used
+
+- **Unity 3D:** aniVR is built using the Unity game engine, allowing for seamless VR experiences and interactive content creation.
+  
+- **Firebase Authentication:** Securely authenticate users and manage their accounts with Firebase Authentication, providing a seamless login experience across devices.
+
+- **Immersive View:** Utilize Immersive View technology to create stunning virtual environments and deliver immersive educational content to users.
+
 ## Getting Started
 
 To get started with aniVR, follow these steps:
